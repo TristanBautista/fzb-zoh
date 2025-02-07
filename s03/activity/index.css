@@ -1,0 +1,115 @@
+* {
+	border: 0;
+	outline: 0;
+	margin: 0;
+    padding: 0;
+	font-family: "IBM Plex Sans";
+}
+
+#my-portfolio{
+	text-align: center;
+	font-size: 72px;
+}
+
+nav {
+	padding: 20px;
+	margin-bottom: 5px;
+	background-color: #b691ff;
+	text-align: center;
+}
+
+.nav-link {
+	margin-left: 20px;
+	margin-right: 20px;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 5px;
+	background: #b691ff;
+	box-shadow:  5px 5px 10px #9274cc,
+             -5px -5px 10px #daaeff;
+}
+
+#landing {
+	text-align: center;
+}
+
+#profile {
+	height: 300px;
+	width: 300px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+}
+
+#name {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#title {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#intro {
+	margin-left: auto;
+	margin-right: auto;
+	width: fit-content;
+	padding: 1rem;
+}
+
+#tools {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#tools-title {
+	margin-bottom: 5px;
+}
+
+#tools-img {
+	height: 150px;
+	width: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#tools-text {
+	margin-bottom: 50px;
+}
+
+#projects {
+	text-align: center;
+}
+
+.card {
+	background-color: #b691ff;
+	height:	400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.card-img {
+	height: 300px;
+	width: 500px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top: 4px;
+	background-color: #b691ff;
+}
